@@ -1,4 +1,13 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Dharma Chandra Viriya</h1>
+<h3 align="center">A passionate Frontend & Backend Engineer from Indonesia</h3>
+
+###
+
+<div align="center">
+  <p>
+    <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  </p>
+</div>
 
 - 🔭 I’m currently working on **PT. BEGAWE**
 
