@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharma Chandra Viriya</h1>
+<h1 align="center">Halow, I'm Chandra Kusuma</h1>
 <h3 align="center">A passionate Frontend & Backend Engineer from Indonesia</h3>
 
 ###
